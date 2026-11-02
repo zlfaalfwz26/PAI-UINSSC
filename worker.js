@@ -1,4 +1,4 @@
-<?php
+
 session_start();
 header('Content-Type: application/json; charset=utf-8');
 $cfg = require __DIR__ . '/config.php';
